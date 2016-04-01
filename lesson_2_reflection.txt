@@ -5,3 +5,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 	Where I want to go with new idea that might not have a good final functional effect for the "main product"
 	Where there are huge changes required to perform one logical change (maybe a demo feature) but the current main product must remain intact
+How do the diagrams help you visualize the branch structure?
+	It allows me to see and compare the root of the branch I'm working on with the status of the master branch at the time when my current branch was created.
