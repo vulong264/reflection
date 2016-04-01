@@ -1,2 +1,4 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	Staging area acts as a middle step between work-in-progress and stored files. It's a set of ready-to-be-submitted-to-repository files. 
+How can you use the staging area to make sure you have one commit per logical change?
+	I would add only the changed file that is neccessary to make the logical change in the functionality of the final product
