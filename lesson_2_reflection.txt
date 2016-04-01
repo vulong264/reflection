@@ -1,0 +1,2 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area acts as a middle step between work-in-progress and stored files. It's a set of ready-to-be-submitted-to-repository files. 
